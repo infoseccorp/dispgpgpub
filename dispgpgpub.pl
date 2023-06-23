@@ -366,8 +366,7 @@ for (basename($0)) {
 	  die "Private keys are not supported.\n";
 	} else {
           my ($modulus, $exponent) = $key->get_key_parameters();
-	  print "Modulus:  ".$modulus->to_hex."\n";
-          print "Exponent: ".$exponent->to_hex."\n";
+	  print "Modulus:=".$modulus->to_hex."\n";
 	}
       } else {
 	die "No matching key found.\n";
