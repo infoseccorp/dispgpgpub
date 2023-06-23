@@ -1,3 +1,30 @@
+dispgpgpub is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+Monkeysphere is a system to use the OpenPGP web-of-trust to
+authenticate and encrypt ssh connections.
+
+It is free software, developed by:
+  Jameson Rollins <jrollins@finestructure.net>
+  Daniel Kahn Gillmor <dkg@fifthhorseman.net>
+  Jamie McClelland <jamie@mayfirst.org>
+  Micah Anderson <micah@riseup.net>
+  Matthew Goins <mjgoins@openflows.com>
+  Mike Castleman <m@mlcastle.net>
+  Elliot Winard <enw@caveteen.com>
+  Ross Glover <ross@ross.mayfirst.org>
+  Greg Lyle <greg@stealthisemail.com>
+
+Monkeysphere is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+Monkeysphere Copyright 2007, and are all released under the GPL,
+version 3 or later.
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
